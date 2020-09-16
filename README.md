@@ -1,4 +1,4 @@
-I'm a front- and back-end web dev.
+I'm a front- and back-end web dev, now working at [10up](https://10up.com/).
 
 From 2014 to 2020, I was part of the [Institute for Nonprofit News](https://inn.org/)' Nerds and Labs teams, where we:
 
@@ -9,6 +9,6 @@ From 2014 to 2020, I was part of the [Institute for Nonprofit News](https://inn.
 - consulted on site maintenance and updates,
 - and provided technical advice to nonprofit newsrooms across the Americas.
 
-I take pride in that we were able to continuously provide useful tools and responsive websites with a small team, that our clients were satisfied with our work, and that we wrote good documentation. And we did it all remotely, in time zones crossing the United States.
+I take pride in that INN Labs was able to continuously provide useful tools and responsive websites with a small team, that our clients were satisfied with our work, and that we wrote good documentation. And we did it all remotely, in time zones crossing the United States.
 
 In my spare time, I tinker with a lot of things, including Jekyll-based personal websites and personal computing projects. I try out things from the wider jounalism coding community. Personal hobbies include constructing elaborate Halloween costumes and writing short fiction.
