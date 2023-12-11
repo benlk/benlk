@@ -1,4 +1,6 @@
-I'm a front- and back-end web dev, now working at [10up](https://10up.com/).
+I'm a front- and back-end web dev, working at [10up](https://10up.com/) since 2020. I do backand and Block Editor development on WordPress sites. You've probably seen one of the sites I've worked on.
+
+In my spare time, I tinker with a lot of things, including Jekyll-based personal websites and personal computing projects. I try out things from the wider jounalism coding community. Projects include [an RSS feed of Central Ohio Transit Authority alerts](https://github.com/benlk/cota-reroute-pdf-rss), RSS feeds of [Columbus' government newletters](https://github.com/benlk/columbus-govdelivery-rss) and of [miscellaneous Columbus-area blogs](https://github.com/benlk/columbus-misc-rss), [a list of Columbus domain names](https://github.com/benlk/columbus-gov-websites)
 
 From 2014 to 2020, I was part of the [Institute for Nonprofit News](https://inn.org/)' Nerds and Labs teams, where we:
 
@@ -7,8 +9,4 @@ From 2014 to 2020, I was part of the [Institute for Nonprofit News](https://inn.
 - developed and maintained [many WordPress plugins](https://github.com/INN/docs/tree/master/projects/wordpress-plugins#wordpress-plugins), including [Pym.js Embeds](https://github.com/INN/pym-shortcode/), the [Super Cool Ad Inserter Plugin](https://github.com/INN/super-cool-ad-inserter-plugin/), the [Republication Tracker Tool](https://github.com/INN/republication-tracker-tool/issues), and the Trust Project's Trust Indicators plugin (accepted on VIP),
 - built bespoke interactives, [graphics](https://projects.rmpbs.org/beyond-columbine/index.html), and [scrapers](https://github.com/INN/current-ltw-scraper),
 - consulted on site maintenance and updates,
-- and provided technical advice to nonprofit newsrooms across the Americas.
-
-I take pride in that INN Labs was able to continuously provide useful tools and responsive websites with a small team, that our clients were satisfied with our work, and that we wrote good documentation. And we did it all remotely, in time zones crossing the United States.
-
-In my spare time, I tinker with a lot of things, including Jekyll-based personal websites and personal computing projects. I try out things from the wider jounalism coding community. Personal hobbies include constructing elaborate Halloween costumes and writing short fiction.
+- and provided technical advice to nonprofit newsrooms across the Americas
